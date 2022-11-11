@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @John 
 - 👀 I’m a tech enthusiast
-- A fronten web developer 
+- ✨ A frontend web developer 
 - 🌱 My tech stack are HTML5, CSS, JAVASCRIPT and REACT
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 Email me on kabiru.gacheru@gmail.com
