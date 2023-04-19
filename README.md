@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @John 
+- ✨ A Computer Science degree graduate
 - 👀 I’m a tech enthusiast
 - ✨ A frontend web developer 
 - 🌱 My tech stack are HTML5, CSS, JAVASCRIPT and REACT
