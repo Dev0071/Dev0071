@@ -5,6 +5,7 @@
 - 🌱 My tech stack are HTML5, CSS, JAVASCRIPT and REACT
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 Email me on kabiru.gacheru@gmail.com
+- 👀 Check out my porfolio https://john-gacheru-dev0071.vercel.app/
 
 <!---
 Dev0071/Dev0071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
