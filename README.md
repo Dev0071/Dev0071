@@ -4,7 +4,7 @@
 - ✨ A frontend web developer 
 - 🌱 My tech stack are HTML5, CSS, JAVASCRIPT and REACT
 - 💞️ I’m looking to collaborate on any open source project
-- 📫 Email me on kabiru.gacheru@gmail.com
+- 📫 Email me on gacheru.kabiru@gmail.com
 - 👀 Check out my porfolio https://john-gacheru-dev0071.vercel.app/
 
 <!---
